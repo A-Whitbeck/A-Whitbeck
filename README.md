@@ -1,22 +1,109 @@
-<h1 align="center">Hi 👋, I'm Antonio Whitbeck</h1>
-<h3 align="center">A passionate frontend developer from Albany, New York.</h3>
+<h1 align="center">Antonio Whitbeck</h1>
 
-- 🔭 I’m currently working on [A budget tracking app](https://github.com/4GeeksAcademy/C69-Budget-Tracker)
-
-- 💬 Ask me about **react, javascript, html, bootstrap.**
-
-- 📫 How to reach me **A.Whitbeck89@gmail.com**
-
-- 📄 Know about my experiences [https://flowcv.com/resume/alksh1njdp](https://flowcv.com/resume/alksh1njdp)
-
-- ⚡ Fun fact **I recently took acting classes.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/antonio-whitbeck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonio whitbeck" height="30" width="40" /></a>
+<p align="center">
+  Senior Software Engineer · Distributed Systems · AI/ML Infrastructure
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  Building large-scale distributed platforms, production ML systems, and real-time infrastructure.
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-whitbeck&show_icons=true&locale=en&layout=compact" alt="a-whitbeck" /></p>
+---
+
+## About
+
+Software engineer with 14+ years of experience designing and operating production systems across machine learning infrastructure, distributed platforms, logistics networks, defense analytics, gameplay AI, and large-scale data processing.
+
+Specialized in architecting low-latency systems, distributed training platforms, event-driven services, and cloud-native infrastructure. Proven track record delivering measurable improvements in scalability, reliability, and operational efficiency.
+
+### Areas of Expertise
+
+- Distributed Systems Architecture
+- Machine Learning Infrastructure
+- Real-Time Event Processing
+- Cloud-Native Platforms
+- MLOps & Model Serving
+- High-Performance Backend Systems
+- Data Engineering & Streaming Pipelines
+- Observability & Reliability Engineering
+
+---
+
+## Technical Stack
+
+### Languages
+
+Python • Java • SQL
+
+### Machine Learning
+
+PyTorch • Vertex AI • LoRA/PEFT • Apache Beam • Dataflow
+
+### Infrastructure
+
+Docker • PostgreSQL • Redis • GCP • TPU/GPU Clusters
+
+### Distributed Systems
+
+Microservices • WebSockets • Event-Driven Architecture • API Design • Geospatial Systems
+
+### Observability
+
+OpenTelemetry • Prometheus • Metrics • Tracing • SLO Management
+
+---
+
+## Selected Impact
+
+### GSK
+
+- Built distributed AI training infrastructure supporting multiple research organizations
+- Reduced model training time from approximately 5 days to 36 hours
+- Designed inference services with p99 latency below 200ms
+- Scaled embedding pipelines processing over 2TB of data daily
+
+### GoGoX
+
+- Led redesign of distributed order-state architecture across 12+ services
+- Reduced customer update latency from 3.5 seconds to 400 milliseconds
+- Scaled public APIs to sustain thousands of requests per second
+- Improved dispatch throughput and matching performance under peak demand
+
+### Charles River Analytics
+
+- Developed sensor-fusion platforms processing 15,000+ messages per second
+- Built distributed simulation systems operating across 20–64 synchronized nodes
+- Delivered real-time analytics platforms for mission-critical environments
+
+---
+
+## Engineering Principles
+
+- Design for scale from day one
+- Measure before optimizing
+- Reliability is a feature
+- Simplicity outlives complexity
+- Observability is non-negotiable
+- Automate repetitive work
+
+---
+
+## Current Interests
+
+- Large-Scale ML Infrastructure
+- Foundation Model Training
+- Distributed Training Systems
+- AI Platform Engineering
+- Streaming Data Architectures
+- Performance Optimization
+
+---
+
+## Connect
+
+- LinkedIn: linkedin.com/in/antonio-whitbeck
+- GitHub: github.com/A-Whitbeck
+
+---
+
+> Building systems that remain reliable under scale, complexity, and change.
