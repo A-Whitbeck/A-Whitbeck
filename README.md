@@ -1,47 +1,64 @@
-Antonio Whitbeck
+# Antonio Whitbeck
 
-<p align="center"> Building software that scales—from a single request to millions, from one model to thousands. </p>
-
-What Interests Me
-Distributed Systems
-
-I enjoy building software that continues to perform as workloads grow. Whether services are distributed across regions or processing millions of events, I'm interested in designing architectures that remain predictable, fault-tolerant, and easy to evolve.
-
-Machine Learning Infrastructure
-
-Training a model is only a small part of machine learning. The real engineering challenge is building the infrastructure around it—data pipelines, distributed training, experiment management, model serving, monitoring, and reproducible deployments.
-
-Event-Driven Systems
-
-Modern applications react continuously to streams of events. I enjoy designing asynchronous systems that communicate through events rather than tightly coupled APIs, allowing services to scale independently while remaining resilient.
-
-Performance Engineering
-
-Performance is more than reducing latency. It's understanding where time and resources are spent, identifying bottlenecks through measurement, and making informed architectural decisions rather than premature optimizations.
-
-Observability
-
-A system isn't truly production-ready until you can understand what it's doing. Metrics, logs, traces, and meaningful telemetry transform distributed systems from black boxes into systems that can be operated with confidence.
-
-Cloud Infrastructure
-
-Cloud platforms are most powerful when treated as programmable infrastructure rather than virtual machines. I enjoy building automated, reproducible environments that allow software to scale reliably without manual intervention.
-
-Technologies I Work With
-
-Python · Java · PyTorch · Apache Beam · Vertex AI · Docker · PostgreSQL · Redis · Google Cloud · OpenTelemetry · Prometheus
-
-I'm fascinated by the engineering behind systems that remain reliable as complexity, traffic, and data continue to grow.
----
-
-## Connect
-
-📧 antonio.sol333@gmail.com
-
-💼 LinkedIn: linkedin.com/in/antonio-whitbeck
-
-💻 GitHub: github.com/A-Whitbeck
+<p align="center">
+Software Engineer focused on distributed systems, machine learning infrastructure, and large-scale backend platforms.
+</p>
 
 ---
 
-> Building systems that remain reliable under scale, complexity, and change.
+## About
+
+I enjoy building systems that continue to work as they become larger, faster, and more complex.
+
+My interests lie at the intersection of distributed computing, cloud infrastructure, and machine learning, where reliability, performance, and simplicity are often competing priorities. I believe good engineering is less about choosing the newest technology and more about understanding trade-offs, measuring outcomes, and designing software that remains maintainable over time.
+
+Whether developing backend services, data platforms, or ML infrastructure, I focus on architectures that are observable, resilient, and designed to evolve as requirements change.
+
+---
+
+## What I Like Building
+
+### Distributed Systems
+
+Systems composed of independent services that communicate efficiently, recover gracefully from failures, and scale horizontally without unnecessary complexity.
+
+### Machine Learning Infrastructure
+
+Platforms that enable training, evaluation, deployment, and serving of machine learning models with reproducibility, automation, and operational reliability.
+
+### Data Platforms
+
+Streaming and batch processing systems that transform large volumes of data into reliable, actionable information while maintaining consistency and performance.
+
+### Cloud-Native Infrastructure
+
+Infrastructure designed around automation, elasticity, and immutable deployments, allowing applications to scale predictably across distributed environments.
+
+### Observability
+
+Comprehensive telemetry through metrics, logs, and tracing that provides clear visibility into system behavior and supports reliable operation in production.
+
+### Performance Engineering
+
+Understanding where systems spend time and resources, identifying bottlenecks through measurement, and improving efficiency without sacrificing maintainability.
+
+---
+
+## Technologies
+
+Python • Java • SQL • PyTorch • Apache Beam • Vertex AI • Docker • PostgreSQL • Redis • Google Cloud • OpenTelemetry • Prometheus
+
+---
+
+## Engineering Principles
+
+* Design for change, not just for today.
+* Reliability is a feature, not an afterthought.
+* Simplicity scales better than cleverness.
+* Measure before optimizing.
+* Build systems that are easy to operate.
+* Automate repetitive work whenever possible.
+
+---
+
+> Great software isn't defined by the technologies it uses, but by how well it continues to perform as scale, complexity, and requirements evolve.
