@@ -101,8 +101,11 @@ OpenTelemetry • Prometheus • Metrics • Tracing • SLO Management
 
 ## Connect
 
-- LinkedIn: linkedin.com/in/antonio-whitbeck
-- GitHub: github.com/A-Whitbeck
+📧 antonio.sol333@gmail.com
+
+💼 LinkedIn: linkedin.com/in/antonio-whitbeck
+
+💻 GitHub: github.com/A-Whitbeck
 
 ---
 
