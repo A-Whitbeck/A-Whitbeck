@@ -1,102 +1,37 @@
-<h1 align="center">Antonio Whitbeck</h1>
+Antonio Whitbeck
 
-<p align="center">
-  Senior Software Engineer · Distributed Systems · AI/ML Infrastructure
-</p>
+<p align="center"> Building software that scales—from a single request to millions, from one model to thousands. </p>
 
-<p align="center">
-  Building large-scale distributed platforms, production ML systems, and real-time infrastructure.
-</p>
+What Interests Me
+Distributed Systems
 
----
+I enjoy building software that continues to perform as workloads grow. Whether services are distributed across regions or processing millions of events, I'm interested in designing architectures that remain predictable, fault-tolerant, and easy to evolve.
 
-## About
+Machine Learning Infrastructure
 
-Software engineer with 14+ years of experience designing and operating production systems across machine learning infrastructure, distributed platforms, logistics networks, defense analytics, gameplay AI, and large-scale data processing.
+Training a model is only a small part of machine learning. The real engineering challenge is building the infrastructure around it—data pipelines, distributed training, experiment management, model serving, monitoring, and reproducible deployments.
 
-Specialized in architecting low-latency systems, distributed training platforms, event-driven services, and cloud-native infrastructure. Proven track record delivering measurable improvements in scalability, reliability, and operational efficiency.
+Event-Driven Systems
 
-### Areas of Expertise
+Modern applications react continuously to streams of events. I enjoy designing asynchronous systems that communicate through events rather than tightly coupled APIs, allowing services to scale independently while remaining resilient.
 
-- Distributed Systems Architecture
-- Machine Learning Infrastructure
-- Real-Time Event Processing
-- Cloud-Native Platforms
-- MLOps & Model Serving
-- High-Performance Backend Systems
-- Data Engineering & Streaming Pipelines
-- Observability & Reliability Engineering
+Performance Engineering
 
----
+Performance is more than reducing latency. It's understanding where time and resources are spent, identifying bottlenecks through measurement, and making informed architectural decisions rather than premature optimizations.
 
-## Technical Stack
+Observability
 
-### Languages
+A system isn't truly production-ready until you can understand what it's doing. Metrics, logs, traces, and meaningful telemetry transform distributed systems from black boxes into systems that can be operated with confidence.
 
-Python • Java • SQL
+Cloud Infrastructure
 
-### Machine Learning
+Cloud platforms are most powerful when treated as programmable infrastructure rather than virtual machines. I enjoy building automated, reproducible environments that allow software to scale reliably without manual intervention.
 
-PyTorch • Vertex AI • LoRA/PEFT • Apache Beam • Dataflow
+Technologies I Work With
 
-### Infrastructure
+Python · Java · PyTorch · Apache Beam · Vertex AI · Docker · PostgreSQL · Redis · Google Cloud · OpenTelemetry · Prometheus
 
-Docker • PostgreSQL • Redis • GCP • TPU/GPU Clusters
-
-### Distributed Systems
-
-Microservices • WebSockets • Event-Driven Architecture • API Design • Geospatial Systems
-
-### Observability
-
-OpenTelemetry • Prometheus • Metrics • Tracing • SLO Management
-
----
-
-## Selected Impact
-
-### GSK
-
-- Built distributed AI training infrastructure supporting multiple research organizations
-- Reduced model training time from approximately 5 days to 36 hours
-- Designed inference services with p99 latency below 200ms
-- Scaled embedding pipelines processing over 2TB of data daily
-
-### GoGoX
-
-- Led redesign of distributed order-state architecture across 12+ services
-- Reduced customer update latency from 3.5 seconds to 400 milliseconds
-- Scaled public APIs to sustain thousands of requests per second
-- Improved dispatch throughput and matching performance under peak demand
-
-### Charles River Analytics
-
-- Developed sensor-fusion platforms processing 15,000+ messages per second
-- Built distributed simulation systems operating across 20–64 synchronized nodes
-- Delivered real-time analytics platforms for mission-critical environments
-
----
-
-## Engineering Principles
-
-- Design for scale from day one
-- Measure before optimizing
-- Reliability is a feature
-- Simplicity outlives complexity
-- Observability is non-negotiable
-- Automate repetitive work
-
----
-
-## Current Interests
-
-- Large-Scale ML Infrastructure
-- Foundation Model Training
-- Distributed Training Systems
-- AI Platform Engineering
-- Streaming Data Architectures
-- Performance Optimization
-
+I'm fascinated by the engineering behind systems that remain reliable as complexity, traffic, and data continue to grow.
 ---
 
 ## Connect
