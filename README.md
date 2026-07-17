@@ -1,64 +1,42 @@
 # Antonio Whitbeck
 
 <p align="center">
-Software Engineer focused on distributed systems, machine learning infrastructure, and large-scale backend platforms.
+Principal AI/ML Solutions Architect focused on distributed systems, AI infrastructure, cloud-native platforms, and scalable software architecture.
 </p>
 
 ---
 
 ## About
 
-I enjoy building systems that continue to work as they become larger, faster, and more complex.
+I build reliable, scalable systems at the intersection of artificial intelligence, distributed computing, and cloud infrastructure.
 
-My interests lie at the intersection of distributed computing, cloud infrastructure, and machine learning, where reliability, performance, and simplicity are often competing priorities. I believe good engineering is less about choosing the newest technology and more about understanding trade-offs, measuring outcomes, and designing software that remains maintainable over time.
+My work focuses on designing production-grade AI platforms, backend systems, and data-driven applications that are scalable, observable, and maintainable.
 
-Whether developing backend services, data platforms, or ML infrastructure, I focus on architectures that are observable, resilient, and designed to evolve as requirements change.
+I enjoy solving complex engineering challenges through thoughtful architecture, performance optimization, and practical technology decisions.
 
 ---
 
-## What I Like Building
+## Focus Areas
 
-### Distributed Systems
-
-Systems composed of independent services that communicate efficiently, recover gracefully from failures, and scale horizontally without unnecessary complexity.
-
-### Machine Learning Infrastructure
-
-Platforms that enable training, evaluation, deployment, and serving of machine learning models with reproducibility, automation, and operational reliability.
-
-### Data Platforms
-
-Streaming and batch processing systems that transform large volumes of data into reliable, actionable information while maintaining consistency and performance.
-
-### Cloud-Native Infrastructure
-
-Infrastructure designed around automation, elasticity, and immutable deployments, allowing applications to scale predictably across distributed environments.
-
-### Observability
-
-Comprehensive telemetry through metrics, logs, and tracing that provides clear visibility into system behavior and supports reliable operation in production.
-
-### Performance Engineering
-
-Understanding where systems spend time and resources, identifying bottlenecks through measurement, and improving efficiency without sacrificing maintainability.
+- 🤖 Generative AI, LLM Applications & ML Infrastructure
+- ⚙️ Distributed Systems & Backend Architecture
+- ☁️ Cloud-Native Platforms & Infrastructure
+- 📊 Data Pipelines & Machine Learning Operations
+- 🚀 Performance, Reliability & System Design
 
 ---
 
 ## Technologies
 
-Python • Java • SQL • PyTorch • Apache Beam • Vertex AI • Docker • PostgreSQL • Redis • Google Cloud • OpenTelemetry • Prometheus
+Python • Java • C++ • PyTorch • Kubernetes • Docker • Terraform • AWS • Google Cloud • PostgreSQL • Redis • Kafka • MLflow
 
 ---
 
 ## Engineering Principles
 
-* Design for change, not just for today.
-* Reliability is a feature, not an afterthought.
-* Simplicity scales better than cleverness.
-* Measure before optimizing.
-* Build systems that are easy to operate.
-* Automate repetitive work whenever possible.
+- Build systems that scale and evolve.
+- Prefer simplicity over unnecessary complexity.
+- Measure first, optimize second.
+- Reliability and observability are part of good design.
 
----
-
-> Great software isn't defined by the technologies it uses, but by how well it continues to perform as scale, complexity, and requirements evolve.
+> Building intelligent systems that are reliable, scalable, and ready for production.
